@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>String_Align</label>
+	</settings>
+	<users>
+		<user>
+			<path>String_Align.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>String_Align.jcp</path>
+		</project>
+	</projects>
+</workspace>
